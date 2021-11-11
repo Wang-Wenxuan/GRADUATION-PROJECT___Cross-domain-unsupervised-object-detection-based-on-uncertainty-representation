@@ -1,0 +1,2 @@
+# Notes
+Something about detection.
